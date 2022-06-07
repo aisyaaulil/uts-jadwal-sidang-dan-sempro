@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414683083461",
+    "project_id": "jadwal-sidang-dan-sempro-apk",
+    "storage_bucket": "jadwal-sidang-dan-sempro-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414683083461:android:309fcca28bb3911c13b6ac",
+        "android_client_info": {
+          "package_name": "id.polinema.jadwal_sidang_sempro.jadwal_sidang_dan_sempro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414683083461-vqoi1r57ovnjsk2fiuf5hmau9escnlk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.polinema.jadwal_sidang_sempro.jadwal_sidang_dan_sempro",
+            "certificate_hash": "2ce168357d8d6bb717daa3f5bee139679d1e29c1"
+          }
+        },
+        {
+          "client_id": "414683083461-5fa78a9kuu1f13qch9gilc5e5m283r9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiouqdIJdqbhmsD1aqSQoInCcWq_ZEc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414683083461-5fa78a9kuu1f13qch9gilc5e5m283r9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
