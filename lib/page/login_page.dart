@@ -40,9 +40,9 @@ class _LoginPageState extends State<LoginPage> {
             Container(
               alignment: Alignment.center,
               margin: const EdgeInsets.only(left: 55, right: 55, top: 70),
-              child: TextFormField(
+              child: TextField(
                 decoration: InputDecoration(
-                  icon: Icon(Icons.people),
+                  icon: Icon(Icons.person),
                   labelText: "Email",
                   border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(10.0)),
@@ -55,6 +55,7 @@ class _LoginPageState extends State<LoginPage> {
               margin: const EdgeInsets.only(
                   left: 55, right: 55, top: 10, bottom: 50),
               child: TextFormField(
+                obscureText: true,
                 decoration: InputDecoration(
                   icon: Icon(Icons.keyboard),
                   labelText: "Password",
