@@ -3,6 +3,10 @@
 # Link desain aplikasi 
 https://www.figma.com/file/mQhKcPyN6MrzbXaxp3zsC9/Aplikasi-Jadwal-Sidang?node-id=0%3A1
 
+
+# Rancangan database
+![rancangan_fix](https://user-images.githubusercontent.com/84777299/175859626-b2e80b42-bf9c-4a35-a2aa-6e178fb50a57.png)
+
 # Login 
 
 ![Halaman Login Revisi](https://user-images.githubusercontent.com/84777299/175854969-851dcfe8-1dae-4709-b7ce-03f39248bd95.png)
