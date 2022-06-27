@@ -20,13 +20,20 @@ https://www.figma.com/file/mQhKcPyN6MrzbXaxp3zsC9/Aplikasi-Jadwal-Sidang?node-id
 ![Revisi Halaman Mahasiswa Sidang](https://user-images.githubusercontent.com/84777299/175855173-4bdaa6fd-60a1-49a4-a52f-fce988d6619e.png)
 
 # Data mahasiswa
-![halaman_data_mahasiswa](https://user-images.githubusercontent.com/84777299/175855245-86cb0a97-1ccf-49ed-8bd9-fae2bd202386.jpg)
+![Halaman Jadwal Sempro](https://user-images.githubusercontent.com/84777299/175859010-373e98a8-6675-481c-8f49-2ccc7969091f.png)
+
+![Halaman Jadwal Sidang](https://user-images.githubusercontent.com/84777299/175859026-720d83e3-d7f4-431e-8cf0-5ee4d5e8b6dc.png)
 
 # Detail mahasiswa
-![halaman_detail_mahasiswa](https://user-images.githubusercontent.com/84777299/175855376-7e3bdb7d-bbc3-47e4-84e1-b7037b61dd19.jpg)
 
-# Data Authentication
-![Authentication](https://user-images.githubusercontent.com/79964056/175859057-05562dc8-2eb2-4b7f-91d9-41a5b761f256.jpeg)
+![Halaman Rincian 1](https://user-images.githubusercontent.com/84777299/175859040-2f90c63f-34e5-4b86-9b3c-e4b2b1fcf60a.png)
 
-# Firestore Database
-![Firestore Database](https://user-images.githubusercontent.com/79964056/175859075-2e085dfb-48a2-4cbe-a27a-f4e913b17790.jpeg)
+![Halaman Rincian 2](https://user-images.githubusercontent.com/84777299/175859066-9c7fa686-26a1-46b2-83cf-22f54c37f45e.png)
+
+![Halaman Rincian 3](https://user-images.githubusercontent.com/84777299/175859089-8e612198-fbf3-40dc-bad9-bc240b393054.png)
+
+# Firebase Authentication
+![auth](https://user-images.githubusercontent.com/84777299/175859227-7486dbce-36e1-4b2d-9291-1bea8ab0cfa6.jpg)
+
+# Firebase database
+![database](https://user-images.githubusercontent.com/84777299/175859262-308e0fa4-8423-4a8f-99d6-47c65c5efffa.jpg)
