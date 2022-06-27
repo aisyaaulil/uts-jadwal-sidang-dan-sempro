@@ -24,3 +24,9 @@ https://www.figma.com/file/mQhKcPyN6MrzbXaxp3zsC9/Aplikasi-Jadwal-Sidang?node-id
 
 # Detail mahasiswa
 ![halaman_detail_mahasiswa](https://user-images.githubusercontent.com/84777299/175855376-7e3bdb7d-bbc3-47e4-84e1-b7037b61dd19.jpg)
+
+# Data Authentication
+![Authentication](https://user-images.githubusercontent.com/79964056/175859057-05562dc8-2eb2-4b7f-91d9-41a5b761f256.jpeg)
+
+# Firestore Database
+![Firestore Database](https://user-images.githubusercontent.com/79964056/175859075-2e085dfb-48a2-4cbe-a27a-f4e913b17790.jpeg)
